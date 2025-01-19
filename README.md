@@ -25,7 +25,7 @@ Answer 1234
 
 - [@octokatherine](https://www.github.com/octokatherine)
 
-## Badges
+## Badges ✨
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
 
